@@ -29,17 +29,17 @@ The csv file contains 17 fields. The description of each field is as below:
 In order to keep the text data clean, I removed unicode and punctuation in the text data and transform text into lower case. No other preprocessing was performed.
 
 # Questions:
-1- the Average rating of all hotels?
-2- Distribution of reviews to highly rated hotels?
-3- Rating of the worst hotels and Why did it get this rating?
+1. the Average rating of all hotels?
+2. Distribution of reviews to highly rated hotels?
+3. Rating of the worst hotels and Why did it get this rating?
 
 # Tools:
-###### Libraries:
+## Libraries:
 -	Pandas for data preprocessing & analysis.
 -	Numpy for numerical data manipulation.
 -	Matplotlib for data visualization.
 - Seaborn for statistical data visualization.
-###### Technologies:
+## Technologies:
 - Jupyter notebook.
 - Python.
 - Power Bi
