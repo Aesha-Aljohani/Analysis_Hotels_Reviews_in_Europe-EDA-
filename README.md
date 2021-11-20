@@ -1,7 +1,7 @@
 # Analysis Hotels Reviews in Europe(EDA)
 
 # Introduction:
-The data was scraped from Booking.com[Booking](https://www.booking.com/). All data in the file is publicly available to everyone already. Please be noted that data is originally owned by Booking.com[Booking](https://www.booking.com/).
+The data was scraped from [Booking](https://www.booking.com/). All data in the file is publicly available to everyone already. Please be noted that data is originally owned by [Booking](https://www.booking.com/).
 
 # Describe Data:
 This dataset contains 515,000 customer reviews and scoring of 1493 luxury hotels across Europe. Meanwhile, the geographical location of hotels are also provided for further analysis.
@@ -23,22 +23,26 @@ The csv file contains 17 fields. The description of each field is as below:
 - Tags: Tags reviewer gave the hotel.
 - dayssincereview: Duration between the review date and scrape date.
 - AdditionalNumberof_Scoring: There are also some guests who just made a scoring on the service rather than a review. This number indicates how many valid scores without review in there.
-- lat: Latitude of the hotel
-- lng: longtitude of the hotel
+- lat: Latitude of the hotel.
+- lng: longtitude of the hotel.
+
 In order to keep the text data clean, I removed unicode and punctuation in the text data and transform text into lower case. No other preprocessing was performed.
 
-# Features:
-
 # Questions:
+1- the Average rating of all hotels?
+2- Distribution of reviews to highly rated hotels?
+3- Rating of the worst hotels and Why did it get this rating?
 
 # Tools:
-# Libraries:
+###### Libraries:
 -	Pandas for data preprocessing & analysis.
 -	Numpy for numerical data manipulation.
 -	Matplotlib for data visualization.
 - Seaborn for statistical data visualization.
-# Technologies:
+###### Technologies:
 - Jupyter notebook.
 - Python.
 - Power Bi
 
+# References:
+- Datasets from kaggle [here](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe).
