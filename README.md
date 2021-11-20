@@ -1,7 +1,9 @@
 # Analysis Hotels Reviews in Europe(EDA)
 
 # Introduction:
-The data was scraped from Booking.com. All data in the file is publicly available to everyone already. Please be noted that data is originally owned by Booking.com.
+The data was scraped from .[Booking.com].(https://www.booking.com/index.ar.html?label=gen173nr-1DCAEoggI46AdIM1gEaMQBiAEBmAEBuAEXyAEM2AED6AEBiAIBqAIDuAKUvuKMBsACAdICJDQ1Y2RiOTczLTk4N2MtNDkyMy1hOTI4LTllYzYxZWUyNDkwMNgCBOACAQ;sid=13268010bfc34502a8db3c5f49ff5026;keep_landing=1;sb_price_type=total;sig=v1FZL2jKsR&)
+All data in the file is publicly available to everyone already.
+Please be noted that data is originally owned by.[Booking.com].(https://www.booking.com/index.ar.html?label=gen173nr-1DCAEoggI46AdIM1gEaMQBiAEBmAEBuAEXyAEM2AED6AEBiAIBqAIDuAKUvuKMBsACAdICJDQ1Y2RiOTczLTk4N2MtNDkyMy1hOTI4LTllYzYxZWUyNDkwMNgCBOACAQ;sid=13268010bfc34502a8db3c5f49ff5026;keep_landing=1;sb_price_type=total;sig=v1FZL2jKsR&).
 
 # Describe Data:
 This dataset contains 515,000 customer reviews and scoring of 1493 luxury hotels across Europe. Meanwhile, the geographical location of hotels are also provided for further analysis.
