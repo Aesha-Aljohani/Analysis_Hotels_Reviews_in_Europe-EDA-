@@ -1,4 +1,4 @@
-# Analysis Hotels Reviews in Europe(EDA)
+# Analysis_Hotels_Reviews_in_Europe(EDA)
 
 # Introduction:
 The data was scraped from [Booking](https://www.booking.com/). All data in the file is publicly available to everyone already. Please be noted that data is originally owned by [Booking](https://www.booking.com/).
@@ -42,7 +42,7 @@ In order to keep the text data clean, I removed unicode and punctuation in the t
 ## Technologies:
 - Jupyter notebook.
 - Python.
-- Power Bi
+
 
 # References:
 - Datasets from kaggle [here](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe).
